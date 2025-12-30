@@ -5,4 +5,4 @@ Basically wrote some code to map the activations of a LLM into a PCA space to se
 
 Run t4.py for the plots like the one below!
 
-![Thought Evolution](roshanwariar.github.io)
+![Thought Evolution](thought_evolution.gif)
